@@ -1,4 +1,4 @@
-## Welcome to ADAChain Stake Pool
+## Welcome to ADAChainPool - Cardano (ADA) Stake Pool
 
 A low Inflation - ADA Stakpool helps to build ADA ecosystem and bridge communities
 
@@ -11,7 +11,7 @@ A highly motivated, exeperienced and skilled group of blockchain enthusiast seek
 
 Our primary objective is to help facilitate growth and adoption of the Cardano (ADA) network and its communities. We aim to participate in strengthing and securing ADA network by maintaining a node. Additionally we will also establish, embrace and develop communication channels to help engage Cardano community with ADA's on-going activities by releasing regular updates, news and other information
 
-we will reinvest no less then 20% of our stake pool rewards towards these goals through communication, information.
+We will reinvest no less then 20% of our stake pool rewards towards these goals through communication, information.
 
 
 ### Our initial plan includes the following initiatives:
