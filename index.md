@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to ADAChain Stake Pool
 
-You can use the [editor on GitHub](https://github.com/hemants1/adachain.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A low Inflation - ADA Stakpool helps to build ADA ecosystem and bridge communities
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ADAChain is a group of blockchain enthusiast based out of Wisconsin USA with experience of design, develop and deploy enterprise wide IT applications. Provide end-to-end solutions to all industries. We recognize the potential impact of blockchain on the industry and like to further expand our capabilities to leverage the strength of blockchain technologies.   
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Our Proposal
 
-```markdown
-Syntax highlighted code block
+A highly motivated, exeperienced and skilled group of blockchain enthusiast seeking an opportunity to represent Cardona (ADA) and facilitate stake pool.  
 
-# Header 1
-## Header 2
-### Header 3
+Our primary objective is to help facilitate growth and adoption of the Cardano (ADA) network and its communities. We aim to participate in strengthing and securing ADA network by maintaining a node. Additionally we will also establish, embrace and develop communication channels to help engage Cardano community with ADA's on-going activities by releasing regular updates, news and other information
 
-- Bulleted
-- List
+we will reinvest no less then 20% of our stake pool rewards towards these goals through communication, information.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### our initial plan includes the following initiatives:
 
-[Link](url) and ![Image](src)
-```
+- Setup and launch Azure VM based server(s) for an ADA Node, configuring for redundancy, security, implement and test against ADA TestNet network.
+- Design & implement a website with ADA information of ongoing activities, road maps, goals and progress of our initiatives along with development and community resources.
+- Actively promote ADA through social media and other technology avenues 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Our Timeline
 
-### Jekyll Themes
+Server procurement, setup and configuration - Ongoing.
+Portal will be developed and operational early Q2 2020.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hemants1/adachain.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
