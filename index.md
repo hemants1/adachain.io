@@ -18,10 +18,9 @@ We will reinvest no less then 20% of our stake pool rewards towards these goals 
 
 - Setup and launch Azure VM based server(s) for an ADA Node, configuring for redundancy, security, implement and test against ADA TestNet network.
 - Design & implement a website with ADA information of ongoing activities, road maps, goals and progress of our initiatives along with development and community resources.
-- Actively promote ADA through social media and other technology avenues 
+- Actively promote ADA through social media and other technology avenues. 
 
 ### Our Timeline
 
--Server procurement, setup and configuration for ADA TestNet (Ongoing).
--Portal will be developed and operational early Q2 2020.
-
+- Server procurement, setup and configuration for ADA TestNet (Ongoing).
+- Portal will be developed and operational early Q2 2020.
