@@ -22,6 +22,6 @@ We will reinvest no less then 20% of our stake pool rewards towards these goals 
 
 ### Our Timeline
 
--Server procurement, setup and configuration for ADA TestNet - Ongoing.
+-Server procurement, setup and configuration for ADA TestNet (Ongoing).
 -Portal will be developed and operational early Q2 2020.
 
