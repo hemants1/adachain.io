@@ -1,6 +1,6 @@
 ## Welcome to ADAChainPool - Cardano (ADA) Stake Pool
 
-A low Inflation - ADA Stakpool helps to build ADA ecosystem and bridge communities
+A low Inflation - ADA Stakepool helps build ADA ecosystem and bridge communities
 
 ADAChain is a group of blockchain enthusiast based out of Wisconsin USA with experience of design, develop and deploy enterprise wide IT applications. Provide end-to-end solutions to all industries. We recognize the potential impact of blockchain on the industry and like to further expand our capabilities to leverage the strength of blockchain technologies.   
 
