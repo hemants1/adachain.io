@@ -14,7 +14,7 @@ Our primary objective is to help facilitate growth and adoption of the Cardano (
 we will reinvest no less then 20% of our stake pool rewards towards these goals through communication, information.
 
 
-### our initial plan includes the following initiatives:
+### Our initial plan includes the following initiatives:
 
 - Setup and launch Azure VM based server(s) for an ADA Node, configuring for redundancy, security, implement and test against ADA TestNet network.
 - Design & implement a website with ADA information of ongoing activities, road maps, goals and progress of our initiatives along with development and community resources.
@@ -22,6 +22,6 @@ we will reinvest no less then 20% of our stake pool rewards towards these goals 
 
 ### Our Timeline
 
-Server procurement, setup and configuration - Ongoing.
-Portal will be developed and operational early Q2 2020.
+-Server procurement, setup and configuration for ADA TestNet - Ongoing.
+-Portal will be developed and operational early Q2 2020.
 
