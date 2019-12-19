@@ -1,8 +1,21 @@
-## Welcome to <a href="https://shelleyexplorer.cardano.org/en/stake-pool/8dd2da847c805e5810bd83f0544affe28eac40c9eb4eef42bb2adec471f2ddc5"> ADAChainPool (ADAIN) </a> Stake Pool 
+## Welcome to ADAChainPool (ADAIN) Stake Pool 
 
 A low Inflation - ADA Stakepool helps build ADA ecosystem and bridge communities
 
 ADAChain is a group of blockchain enthusiast based out of Wisconsin USA with experience of design, develop and deploy enterprise wide IT applications. Provide end-to-end solutions to all industries. We recognize the potential impact of blockchain on the industry and like to further expand our capabilities to leverage the strength of blockchain technologies.   
+
+### Delegate yours stake to (ADAIN) 
+Website: https://hemants1.github.io/adachain.io/
+         <a href="https://shelleyexplorer.cardano.org/en/stake-pool/8dd2da847c805e5810bd83f0544affe28eac40c9eb4eef42bb2adec471f2ddc5"> ADACHAINPOOL </a>
+
+### Why? 
+
+- Dedicated VPS with no or minimal downtime 
+- Stable, Secured and regular system backups
+- Regularly patched with latest software releases
+- Automated health checks and notifications 
+- Fixed fee with 90% of rewards distribution
+- 100% Reliable and transparent
 
 
 ### Our Proposal
